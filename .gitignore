@@ -54,6 +54,8 @@ dkms.conf
 .metadata
 myapp/.settings
 myapp/Debug
+myapp/Release
 
 mylib/.settings
 myapp/Debug
+myapp/Release
