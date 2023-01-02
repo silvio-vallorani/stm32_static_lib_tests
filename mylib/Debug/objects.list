@@ -1,0 +1,4 @@
+"./Drivers/CMSIS/Device/ST/STM32G0xx/Source/Templates/system_stm32g0xx.o"
+"./Src/mylib.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
