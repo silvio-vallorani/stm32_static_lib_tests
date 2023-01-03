@@ -90,7 +90,7 @@ int main(void)
   MX_GPIO_Init();
   MX_USART2_UART_Init();
   /* USER CODE BEGIN 2 */
-  loc_pluto = 0;
+  loc_pluto = 0xFF;
 
   loc_pluto = getLibPlutoValue();
   __mySum(1, 1);
